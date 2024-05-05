@@ -8,7 +8,7 @@ had to set pool_num = 12 for my machine limitations on predict.py files.
   'valid': [4, 6, 10, 11, 22],
   'GM12878_test': (5, 14, 15, 20, 21)}
 
-  Due to memory limitations of 32GB of memory, had to ommit the first 3 chromosomes as well as shuffle the train/valid/test chromosomes around so that training set wasn't so large.
+  Due to system limitations of 32GB of memory, had to ommit the first 3 chromosomes as well as shuffle the train/valid/test chromosomes around so that training set wasn't so large.
 
 
 
