@@ -16,6 +16,7 @@ had to set pool_num = 12 for my machine limitations on predict.py files.
 # ******************
 
 HiCARN 1
+
 Chr 5 SSIM:  0.9107
 Chr 5 MSE:  0.0002
 Chr 5 PSNR:  35.9088
@@ -48,6 +49,7 @@ Chr 21 GenomeDISCO:  0.9204
 
 ___________________________________________
 Means across chromosomes
+
 SSIM:  0.9056
 MSE:  0.0003
 PSNR:  35.1795
@@ -55,6 +57,7 @@ GenomeDISCO:  0.9186
 ___________________________________________
 
 HiCARN 2
+
 Chr 5 SSIM:  0.9109
 Chr 5 MSE:  0.0002
 Chr 5 PSNR:  35.9116
@@ -87,6 +90,7 @@ Chr 21 GenomeDISCO:  0.9206
 
 ___________________________________________
 Means across chromosomes
+
 SSIM:  0.9058
 MSE:  0.0003
 PSNR:  35.1856
@@ -94,6 +98,7 @@ GenomeDISCO:  0.9189
 ___________________________________________
 
 DeepHiC
+
 Chr 5 SSIM:  0.8981
 Chr 5 MSE:  0.0003
 Chr 5 PSNR:  35.4141
@@ -126,6 +131,7 @@ Chr 21 GenomeDISCO:  0.9103
 
 ___________________________________________
 Means across chromosomes
+
 SSIM:  0.8926
 MSE:  0.0003
 PSNR:  34.6192
@@ -133,6 +139,7 @@ GenomeDISCO:  0.9078
 ___________________________________________
 
 HiCNN
+
 Chr 5 SSIM:  0.9014
 Chr 5 MSE:  0.0003
 Chr 5 PSNR:  34.832
@@ -165,6 +172,7 @@ Chr 21 GenomeDISCO:  0.9049
 
 ___________________________________________
 Means across chromosomes
+
 SSIM:  0.8929
 MSE:  0.0004
 PSNR:  33.95
@@ -172,6 +180,7 @@ GenomeDISCO:  0.9016
 ___________________________________________
 
 HiCPlus
+
 Chr 5 SSIM:  0.879
 Chr 5 MSE:  0.0006
 Chr 5 PSNR:  32.2468
@@ -204,6 +213,7 @@ Chr 21 GenomeDISCO:  0.8858
 
 ___________________________________________
 Means across chromosomes
+
 SSIM:  0.8682
 MSE:  0.0007
 PSNR:  31.3795
@@ -211,6 +221,7 @@ GenomeDISCO:  0.8826
 ___________________________________________
 
 HiCSR
+
 Chr 5 SSIM:  0.9068
 Chr 5 MSE:  0.0007
 Chr 5 PSNR:  31.666
@@ -243,6 +254,7 @@ Chr 21 GenomeDISCO:  0.9042
 
 ___________________________________________
 Means across chromosomes
+
 SSIM:  0.8941
 MSE:  0.0008
 PSNR:  30.9571
