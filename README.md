@@ -1,4 +1,5 @@
-# bioinformatics
+# Bioinformatics
+Using HiCARN for all models
 
 had to set pool_num = 12 for my machine limitations on predict.py files.
 
