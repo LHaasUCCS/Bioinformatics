@@ -19,15 +19,15 @@ had to set pool_num = 12 for my machine limitations on predict.py files.
 HiCARN 1
 
 Chr 5 SSIM:  0.9107
-Chr 5 MSE:  0.0002
-Chr 5 PSNR:  35.9088
-Chr 5 GenomeDISCO:  0.9177
+MSE:  0.0002
+PSNR:  35.9088
+GenomeDISCO:  0.9177
 
 
 Chr 14 SSIM:  0.9079
-Chr 14 MSE:  0.0003
-Chr 14 PSNR:  35.1723
-Chr 14 GenomeDISCO:  0.9204
+MSE:  0.0003
+PSNR:  35.1723
+GenomeDISCO:  0.9204
 
 
 Chr 15 SSIM:  0.8998
